@@ -1,6 +1,8 @@
 # RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection
 
-This repository contains the official implementation of the "RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection" paper (arXiv:2007.00140).
+This repository contains the official implementation of the "[RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection](https://ieeexplore.ieee.org/document/9298921/)" paper.
+
+DOI: 10.1109/TSP.2020.3045199
 
 
 To make it easy to easy to replicate the results, the repository contains separate directories for each of the experiments. For running each of these experiments, please read the separate README.md present inside each of the experiment directory.
